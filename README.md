@@ -6,6 +6,12 @@
 
 ---
 
+## 🔗 Coding Profiles
+
+Leetcode: https://leetcode.com/u/Amar__123/
+
+---
+
 ## 🧠 Currently Learning
 
 * Data Structures
