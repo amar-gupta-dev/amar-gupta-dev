@@ -1,9 +1,5 @@
 <div align="center">
-
-<img 
-  src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Amar+Gupta;C%2B%2B+Developer+%7C+DSA+Enthusiast;Future+Software+Engineer;Consistency+%3E+Motivation" 
-/>
-
+  <img src="https://raw.githubusercontent.com/amar-gupta-dev/amar-gupta-dev/main/Welcome%20to%20Amar's%20GitHub.gif" />
 </div>
 
 ---
