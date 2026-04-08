@@ -1,88 +1,129 @@
-# Hi 👋 I'm Amar Gupta
+<div align="center">
 
-💻 **C++ Developer**
-📚 Learning **Data Structures & Algorithms**
-🚀 Practicing problems on **LeetCode** to improve problem-solving skills
+<img 
+  src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Amar+Gupta;C%2B%2B+Developer+%7C+DSA+Enthusiast;Future+Software+Engineer;Consistency+%3E+Motivation" 
+/>
 
----
-
-## 🔗 Coding Profiles
-
-Leetcode: https://leetcode.com/u/Amar__123/
+</div>
 
 ---
 
-## 🧠 Currently Learning
+<div align="center">
 
-* Data Structures
-* Algorithms
-* Competitive Programming
-* Problem Solving with C++
+<h2>About Me</h2>
 
----
+Hello, I'm **Amar Gupta** — a passionate programmer focused on **Data Structures & Algorithms** and **C++ development**.
 
-## 🛠️ Languages & Tools
+I enjoy solving problems, improving logic, and building a strong foundation for software engineering.
 
-* C++
-* Git
-* GitHub
+💡 I believe in **consistency, discipline, and continuous learning**.
 
----
+<br/>
 
-## 📊 GitHub Stats
+🎯 **C++ Developer**  
+📚 **DSA & Problem Solving**  
+🚀 **Learning Web & System Design**  
+🔥 **Active on LeetCode**
 
-![Amar's GitHub stats](https://github-readme-stats.vercel.app/api?username=amar-gupta-dev\&show_icons=true)
+</div>
 
 ---
 
-## 🔥 Streak Stats
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amar-gupta-dev)
+<h2>Technologies</h2>
 
----
+<h3>Languages</h3>
 
-## 📊 LeetCode Stats
+![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Amar__123?theme=dark&font=baloo&ext=heatmap)
+<br/>
 
----
+<h3>Tools & Platforms</h3>
 
-## 🛠️ Skills
+![Git](https://img.shields.io/badge/GIT-000000?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCODE-000000?style=flat&logo=visualstudiocode&logoColor=white)
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+</div>
 
 ---
 
-## 🎯 Goals
+<div align="center">
 
-* Solve **500+ DSA problems**
-* Improve competitive programming skills
-* Build useful coding projects
+<h2>DSA & Problem Solving</h2>
+
+💻 Solving problems on LeetCode  
+📈 Improving algorithms & optimization  
+🔥 Maintaining consistency and streak  
+
+</div>
 
 ---
 
-⭐ From [amar-gupta-dev](https://github.com/amar-gupta-dev)
+<div align="center">
 
+<h2>Statistics</h2>
 
-<!--
-**amar-gupta-dev/amar-gupta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td width="50%" align="center">
 
-Here are some ideas to get you started:
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amar-gupta-dev&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" 
+/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+
+<td width="50%" align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=amar-gupta-dev&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" 
+/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=amar-gupta-dev&theme=dark&hide_border=true&background=000000" 
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>Contribution Graph</h2>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=amar-gupta-dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" 
+  width="100%"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>Random Dev Quote</h3>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+<h3>Visitor Count</h3>
+
+![](https://komarev.com/ghpvc/?username=amar-gupta-dev&color=000000&style=flat-square)
+
+---
+
+<sub>⭐️ Built by Amar Gupta</sub>
+
+</div>
