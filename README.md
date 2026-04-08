@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amar-gupta-dev/amar-gupta-dev/main/Welcome%20to%20Amar's%20GitHub.gif" />
+  <img src="https://raw.githubusercontent.com/amar-gupta-dev/amar-gupta-dev/main/banner.gif.gif" />
 </div>
 
 ---
