@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amar-gupta-dev/amar-gupta-dev/main/banner.gif.gif" />
+  <img src="https://raw.githubusercontent.com/amar-gupta-dev/amar-gupta-dev/main/banner.gif" alt="Welcome Banner" width="100%" />
 </div>
 
 ---
