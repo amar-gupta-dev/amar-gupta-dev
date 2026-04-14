@@ -66,19 +66,18 @@ I enjoy solving problems, improving logic, and building a strong foundation for 
 <table>
 <tr>
 <td width="50%" align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amar-gupta-dev&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" 
-/>
-
+  <h4>Most Used Languages</h4>
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=amar-gupta-dev&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
+    alt="Top Languages"
+  />
 </td>
-
 <td width="50%" align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=amar-gupta-dev&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" 
-/>
-
+  <h4>GitHub Stats</h4>
+  <img 
+    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=amar-gupta-dev&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    alt="GitHub Stats"
+  />
 </td>
 </tr>
 </table>
