@@ -12,14 +12,14 @@ Hello, I'm **Amar Gupta** — a passionate programmer focused on **Data Structur
 
 I enjoy solving problems, improving logic, and building a strong foundation for software engineering.
 
-💡 I believe in **consistency, discipline, and continuous learning**.
+   I believe in **consistency, discipline, and continuous learning**.
 
 <br/>
 
-🎯 **C++ Developer**  
-📚 **DSA & Problem Solving**  
-🚀 **Learning Web & System Design**  
-🔥 **Active on LeetCode**
+   **C++ Developer**  
+   **DSA & Problem Solving**  
+   **Learning Web & System Design**  
+   **Active on LeetCode**
 
 </div>
 
@@ -51,9 +51,9 @@ I enjoy solving problems, improving logic, and building a strong foundation for 
 
 <h2>DSA & Problem Solving</h2>
 
-💻 Solving problems on LeetCode  
-📈 Improving algorithms & optimization  
-🔥 Maintaining consistency and streak  
+   Solving problems on LeetCode  
+   Improving algorithms & optimization  
+   Maintaining consistency and streak  
 
 </div>
 
